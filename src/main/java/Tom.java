@@ -1,7 +1,7 @@
 public class Tom {
 
     public static  void main(){
-        Integer count = 10;
+        String count = "wejwjwo";
         System.out.println("Hello Jerry");
     }
 }
